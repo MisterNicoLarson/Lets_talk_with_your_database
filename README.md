@@ -103,11 +103,3 @@ The goal is to manipulate this database using three different programming langua
 💡 Exercise 5: Delete a Movie
 
     Remove a movie based on its ID.
-
-## 📌 Next Steps
-
-🔹 Implement these exercises in Python, Java, and C#.
-🔹 Compare how each language handles database operations.
-🔹 Optimize SQL queries for better performance.
-
-🚀 Let's get started! 🎥
